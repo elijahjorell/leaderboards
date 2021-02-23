@@ -1,4 +1,4 @@
-import 'react';
+import React from 'react';
 import { Table } from 'react-bootstrap';
 
 const Leaderboard = (props) => {
